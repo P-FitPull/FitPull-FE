@@ -19,7 +19,7 @@ const MainLandingPage = () => {
       >
         <FeatureCard
           icon="🏋️‍♂️"
-          title="운동 장비 대여"
+          title="장비,인력,재능 필요한 모든것을 대여"
           description="필요한 기간만큼 합리적인 가격으로 장비를 대여하세요"
         />
         <FeatureCard
@@ -30,7 +30,7 @@ const MainLandingPage = () => {
         <FeatureCard
           icon="🔍"
           title="스마트 검색"
-          description="원하는 장비를 쉽고 빠르게 찾아보세요"
+          description="원하는 것을 쉽고 빠르게 찾아보세요"
         />
         <FeatureCard
           icon="💬"
